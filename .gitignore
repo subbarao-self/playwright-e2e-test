@@ -1,0 +1,23 @@
+
+# Node.js
+node_modules/
+
+# Playwright output
+/test-results/
+/playwright-report/
+/allure-results/
+/allure-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Local environment files
+.env
+config.env
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
