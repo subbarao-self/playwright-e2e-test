@@ -27,7 +27,7 @@ export default defineConfig({
       name: 'chromium',
       use: {
         ...devices['Desktop Chrome'],
-        headless: false,
+        headless: process.env.CI ? true : false,
         screenshot: 'only-on-failure',
         trace: 'on-first-retry',
         video: 'on-first-retry',
