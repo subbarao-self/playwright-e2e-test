@@ -1,5 +1,5 @@
 const { test,expect } = require('@playwright/test');
-const { LoginPage } = require('../pageObjects/loginPage');
+const { LoginPage } = require('../pageObjects/LoginPage');
  
  
 test('@QW Security test request intercept', async ({ page }) => {
