@@ -1,4 +1,4 @@
-const { DashboardPage } = require("./dashboardPage");
+const { DashboardPage } = require("./DashboardPage");
 const { LoginPage } = require("./loginPage");
 
 class POManager {
