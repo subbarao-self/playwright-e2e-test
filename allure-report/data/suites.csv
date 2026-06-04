@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3618","@QW Security test request intercept","chromium","2026-06-03","passed","2026-06-03","","clientApp.spec.js","",""
+"","5018","Add product to cart","chromium","2026-06-03","passed","2026-06-03","","addProductToCart.spec.js","",""
